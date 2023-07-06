@@ -1,0 +1,21 @@
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\ACER\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\ACER\source\repos\3 курс 2 семестр\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Report.resources
